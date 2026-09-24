@@ -5,6 +5,7 @@ The coursework focuses on the practical and theoretical foundations of quantum c
 
 ## Topics
 The repository covers topics including:
+
 Quantum circuit design and simulation
 Qiskit programming and circuit construction
 Quantum algorithms, including QAOA and VQE
